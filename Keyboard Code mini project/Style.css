@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@600&family=Lato:wght@400;700&family=Manrope:wght@400;600&family=Mulish:wght@700&family=Poppins:wght@400;500;700&family=Righteous&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #dfcfcf;
+  font-family: 'Mulish', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+  font-size: 30px;
+}
+
+.key {
+  /* border: 1px solid #999; */
+  background-color: #ffffff;
+  color: #e37734;
+  /* box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1); */
+  display: inline-flex;
+  align-items: center;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 20px;
+  flex-direction: column;
+  margin: 10px;
+  min-width: 150px;
+  position: relative;
+}
+.key small {
+  position: absolute;
+  top: 95px;
+  left: 0;
+  text-align: center;
+  width: 100%;
+  color: #090909;
+  font-size: 30px;
+}
