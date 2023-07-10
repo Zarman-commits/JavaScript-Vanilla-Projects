@@ -23,6 +23,9 @@ Here is a list of projects included in this repository:
 1. **Project 1**: [Keyboard Code]
    - Description: Shows keyboard code when pressed.
    - Insights:  I learned event handling during this project.
+2. **Project 2**: [Github User Search]
+   - Description: Can look up github users.
+   - Insights:  I learned fetch api and eror handling.
 
    ...
 
@@ -35,6 +38,18 @@ My journey as a developer has been a continuous learning experience. With each p
 - **DOM Manipulation**: Understanding how to interact with the Document Object Model (DOM) to dynamically update the content and structure of web pages.
 
 - **Event Handling**: Learning to handle user interactions and respond to events such as clicks, keypresses, and form submissions.
+- 
+- *Asynchronous Programming*: Exploring asynchronous concepts using Promises, async/await, and callbacks to manage network requests and time-dependent operations.
+
+- *Web APIs*: Utilizing various browser APIs like LocalStorage, Fetch API, and others to enhance web applications.
+
+- *ES6+ Features*: Embracing modern JavaScript features to write cleaner, more efficient code, including arrow functions, template literals, and destructuring.
+
+- *Project Organization*: Structuring projects with clear separation of concerns and modularizing code for maintainability.
+
+- *Debugging*: Gaining proficiency in debugging techniques to identify and fix errors in code effectively.
+
+- *Performance Optimization*: Learning strategies to improve website performance, such as reducing load times and optimizing rendering.
 
 ## How to Run the Projects
 
