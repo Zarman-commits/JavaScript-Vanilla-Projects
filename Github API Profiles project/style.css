@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.repo {
+  display: inline-block;
+  color: #ffff;
+  background-color: #3b82f6;
+  font-size: 0.9rem;
+  padding: 0.25rem, 0.5rem;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+#avatar {
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+}
+
+/* flex justify-between mt-2 */
+
+/* <a href="#" class="repo bg-blue-500 text-white rounded-md hover:bg-blue-600 px-2 py-2">Repo1</a>
+<a href="#" class="repo bg-blue-500 text-white rounded-md hover:bg-blue-600 px-2 py-2">Repo2</a>
+<a href="#" class="repo bg-blue-500 text-white rounded-md hover:bg-blue-600 px-2 py-2">Repo3</a> */
