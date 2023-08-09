@@ -25,7 +25,7 @@ Here is a list of projects included in this repository:
    - Insights:  I learned event handling during this project.
 2. **Project 2**: [Github User Search]
    - Description: Can look up github users.
-   - Insights:  I learned fetch api and eror handling.
+   - Insights:  I learned fetch api and error handling.
 
    ...
 
